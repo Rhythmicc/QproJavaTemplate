@@ -1,0 +1,6 @@
+compile_tool,javac -d dist main.java
+compile_filename,main.java
+executable_filename,java -classpath dist QproJavaTemplate
+input_file,dist/input.txt
+template_root,template/
+server_target,,
